@@ -1,9 +1,17 @@
 # Pure API Demonstration
 
-A Jupyter Notebook demonstrating use of the Pure API.
+A set of Jupyter Notebooks demonstrating use of the Pure API.
 
-Copyright (c) 2019, University of St Andrews. This project is licensed under the terms of the MIT license.
+Copyright (c) 2019, University of St Andrews. This project is licensed under
+the terms of the MIT license.
 
-Click the button below to run this in Binder
+Click the button below to launch this in Binder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/StAResComp/pure-api-demo/master)
+
+After launch, open \_Config\_DO\_THIS\_FIRST.ipynb, fill in your API details
+and execute the notebook. Note that your API key will need to enable access to
+the correct endpoints in ue by each notebook.
+
+Once your API details are stored, you can use the other notebooks to try
+working with some of the different endpoints available.
