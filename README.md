@@ -9,7 +9,7 @@ Click the button below to launch this in Binder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/StAResComp/pure-api-demo/master)
 
-After launch, open `\_Config\_DO\_THIS\_FIRST.ipynb`, fill in your API details
+After launch, open `_Config_DO_THIS_FIRST.ipynb`, fill in your API details
 and execute the notebook. Note that your API key will need to enable access to
 the correct endpoints in ue by each notebook.
 
